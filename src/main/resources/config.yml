@@ -125,7 +125,7 @@ brush-properties:
         depth-max: 64
         default-depth: 24
     Sign Overwrite:
-        side: FRONT
+        default-side: FRONT
     Splatter Ball:
         seed-percent-min: 1
         seed-percent-max: 9999
